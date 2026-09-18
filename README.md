@@ -14,7 +14,7 @@ Em todos os exercícios desenvolvidos neste módulo, foram praticados os seguint
 - **Estruturas de Controle e Decisão:** `if / else`, `switch-case` com *Arrow Syntax* (Java 17+) e laços de repetição (`while`).
 - **Tratamento de Exceções:** Lançamento explícito de exceções (`throw new IllegalArgumentException`) para garantir integridade do domínio e tratamento de erros no console com blocos `try-catch`.
 - **Entrada/Saída de Dados:** Leitura interativa via terminal usando `Scanner` e formatação de saídas com `System.out.printf`.
-
+- **Documentação com Javadoc:** Utilização de comentários estruturados (`/** ... */`) com tags como `@param`, `@return` e `@throws` para documentar a finalidade, parâmetros, retornos e exceções lançadas por cada método do sistema.
 ---
 
 ## 📁 Estrutura do Repositório & Exercícios
